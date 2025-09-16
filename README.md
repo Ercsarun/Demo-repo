@@ -1,3 +1,3 @@
 # Demo
 
-Learning in progress.
+Learning in progress!
